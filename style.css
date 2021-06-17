@@ -3,14 +3,13 @@ header {
   background-color: antiquewhite;
    background-image: url("https://s3.envato.com/files/268185479/DSC_5057111.jpg");
   background-repeat: no-repeat;
-  background-size: height 12px;
-   
+  background-size: height 12px; 
   margin: 0;
   height: 200px
-
+  
   }
   
-  h1{
+  h1 {
   text-align:center; 
   padding-top: 100px; 
   font-size:  300%;
@@ -20,15 +19,20 @@ header {
   font-variant-position: center;
   float: left;
    }
+
+
 .a{
   display: block;
    margin: 10px ;
    float: right;
   }
+
+
   a:link {
   text-decoration: none;
   color: rgb(134, 78, 78);
 }
+
 
 #foodlist {
 background-color:blue;
@@ -37,19 +41,22 @@ background-color:blue;
 
 
 
+ li{
+   display: inline;
+
+   margin: 10px ;
+ }
+  
+
   main {
     background-color: bisque;
   }
 
+
+
   section {
     background-color: FFBD9B;
 
-     
-
-
-
-    
-   
   }
 
 
