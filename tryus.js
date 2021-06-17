@@ -8,9 +8,14 @@ alert ("welcome to Arab recipes website " + "you can downlod stuffs after sign u
 
 var answer = prompt("Are you intrested in Arab food");
 
+<<<<<<< HEAD
 if (answer = "yes"+ "Yes" +"YES") {
 
   alert ("welcome its the right place");
+=======
+if (answer == "yes"+ "Yes" +"YES") {
+  alert  ("welcome its the right place");
+
 }
 
 else {
