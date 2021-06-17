@@ -1,0 +1,62 @@
+
+header {
+  background-color: antiquewhite;
+   
+  margin: 0;
+  height: 100px
+
+  }
+  
+  h1{
+  text-align:center; 
+  padding-top: 10px
+ 
+ }
+
+ li{
+   display: inline;
+
+   margin: 10px ;
+ }
+  
+
+
+
+  main {
+    background-color: bisque;
+  }
+
+  section {
+    background-color: FFBD9B;
+
+     
+
+
+
+    
+   
+  }
+
+
+footer{
+  background-color:brown;
+
+} 
+
+
+
+h2 {
+background-color: rgba(252, 57, 122, 0.315);
+}
+
+
+h4 {
+text-align: center;
+font: 20
+
+}
+
+div{
+  display: inline;
+  background-color: beige;
+}
