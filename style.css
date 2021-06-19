@@ -1,67 +1,68 @@
 
 header {
-  background-color: antiquewhite;
-   background-image: url("https://s3.envato.com/files/268185479/DSC_5057111.jpg");
-  background-repeat: no-repeat;
-  background-size: height 12px;
-   
+  background-color:rgb(125, 90, 80);
+  background-image: url("https://static.vecteezy.com/system/resources/previews/000/150/336/non_2x/arabic-cuisine-vector.jpg");
+  /* background-repeat: no-repeat;
+  background-size: 100% 200px; */
+  background-position: top right;
   margin: 0;
-  height: 200px
-
+  height: 200px;
+  
+  
   }
   
-  h1{
+  h1 {
   text-align:center; 
-  padding-top: 100px; 
+  margin-top: 10px; 
+  margin-left: 500px;
   font-size:  300%;
   font-style: oblique;
-  color: rgb(241, 224, 241);
-  background-position: center;
-  font-variant-position: center;
+  color: brown;
   float: left;
    }
+
+
 .a{
-  display: block;
-   margin: 10px ;
-   float: right;
-  }
+  text-align:left; 
+  margin-top: 10px; 
+  margin-right: 500px;
+  font-style: oblique;
+  color: brown;
+
+}
+  
+
+
   a:link {
   text-decoration: none;
-  color: rgb(134, 78, 78);
+  color: rgb(247, 201, 201);
+
 }
+
 
 #foodlist {
-background-color:blue;
+background-color:rgb(229, 178, 153);
+display: block;
 }
 
 
 
 
+ 
+
   main {
-    background-color: bisque;
+    background-color: rgb(229, 178, 153);
   }
-
-  section {
-    background-color: FFBD9B;
-
-     
-
-
-
-    
-   
-  }
-
 
 footer{
-  background-color:brown;
+  background-color:rgb(252, 222, 192);
 
 } 
 
 
 
 h2 {
-background-color: rgba(252, 57, 122, 0.315);
+background-color: rgb(180, 132, 108);
 }
 
 
@@ -74,4 +75,11 @@ font: 20
 div{
   display: inline;
   background-color: beige;
+}
+
+
+.para{
+  font-size:100;
+
+
 }
