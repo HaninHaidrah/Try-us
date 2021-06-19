@@ -1,25 +1,24 @@
 
 header {
+
   background-color:rgb(125, 90, 80);
   background-image: url("https://static.vecteezy.com/system/resources/previews/000/150/336/non_2x/arabic-cuisine-vector.jpg");
-  /* background-repeat: no-repeat;
-  background-size: 100% 200px; */
   background-position: top right;
   margin: 0;
   height: 200px;
-  
-  
-  }
+}
   
   h1 {
   text-align:center; 
-  margin-top: 10px; 
+  margin-top: 0px; 
   margin-left: 500px;
+  padding-top: 10px; 
   font-size:  300%;
   font-style: oblique;
   color: brown;
   float: left;
-   }
+
+}
 
 
 .a{
@@ -28,8 +27,18 @@ header {
   margin-right: 500px;
   font-style: oblique;
   color: brown;
+  display: block;
+   margin: 10px ;
+   float: right;
+  }
 
+
+  a:link {
+  text-decoration: none;
+  color: rgb(134, 78, 78);
 }
+
+
   
 
 
@@ -40,6 +49,7 @@ header {
 }
 
 
+
 #foodlist {
 background-color:rgb(229, 178, 153);
 display: block;
@@ -47,15 +57,12 @@ display: block;
 
 
 
-
- 
-
   main {
     background-color: rgb(229, 178, 153);
   }
 
 footer{
-  background-color:rgb(252, 222, 192);
+  background-color: brown;
 
 } 
 
