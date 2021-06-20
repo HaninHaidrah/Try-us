@@ -8,6 +8,7 @@
 
 alert ("welcome to Arab recipes website " + "you can downlod stuffs after sign up")
 
+
 function arabicrecipes(){
 var answer = prompt ("Are you intrested in Arab food");
 
@@ -20,6 +21,7 @@ while (answer !== "yes" && answer !== "Yes" && answer !== "YES" ){
 }
 
 arabicrecipes();
+
 
   alert("welcome its the right place")
 
