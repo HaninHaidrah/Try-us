@@ -20,11 +20,11 @@ while (answer !== "yes" && answer !== "Yes" && answer !== "YES" ){
 }
 
 Arabicrecipes();
+
   alert("welcome its the right place")
 
-
-
  var numberOfrecipes = prompt("how many recipes you want to see each time")
+
 
 function numrecip(){
   for(var i =1 ; i<=numberOfrecipes ; i++)
@@ -37,7 +37,7 @@ document.write('<img src="https://i.ytimg.com/vi/U3dNHep8SLQ/maxresdefault.jpg" 
 
 
  
-
+ numrecip();
 
         
 
