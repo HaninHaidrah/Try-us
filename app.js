@@ -8,7 +8,7 @@
 
 alert ("welcome to Arab recipes website " + "you can downlod stuffs after sign up")
 
-function Arabicrecipes(){
+function arabicrecipes(){
 var answer = prompt ("Are you intrested in Arab food");
 
 while (answer !== "yes" && answer !== "Yes" && answer !== "YES" ){ 
@@ -19,12 +19,12 @@ while (answer !== "yes" && answer !== "Yes" && answer !== "YES" ){
 
 }
 
-Arabicrecipes();
+arabicrecipes();
+
   alert("welcome its the right place")
 
-
-
  var numberOfrecipes = prompt("how many recipes you want to see each time")
+
 
 function numrecip(){
   for(var i =1 ; i<=numberOfrecipes ; i++)
@@ -37,7 +37,7 @@ document.write('<img src="https://i.ytimg.com/vi/U3dNHep8SLQ/maxresdefault.jpg" 
 
 
  
-
+ numrecip();
 
         
 
